@@ -1,0 +1,1 @@
+A basic web scraper that can download html pages from a website.
